@@ -1,0 +1,83 @@
+[
+  {
+    "id": "4135ba03067b7839",
+    "type": "tab",
+    "label": "Flask",
+    "disabled": false,
+    "info": "",
+    "env": []
+  },
+  {
+    "id": "49b0a3a8ce63a793",
+    "type": "inject",
+    "z": "4135ba03067b7839",
+    "name": "",
+    "props": [
+      {
+        "p": "payload"
+      }
+    ],
+    "repeat": "",
+    "crontab": "",
+    "once": false,
+    "onceDelay": 0.1,
+    "topic": "",
+    "payload": "{\"nome\":\"HR\",\"marca\":\"HYUNDAI\",\"situação\":\"Pane mecânica\"}",
+    "payloadType": "json",
+    "x": 250,
+    "y": 460,
+    "wires": [["f5e8777c3d5e78be", "04fe9f776a64d2b3"]]
+  },
+  {
+    "id": "04fe9f776a64d2b3",
+    "type": "http request",
+    "z": "4135ba03067b7839",
+    "name": "",
+    "method": "GET",
+    "ret": "obj",
+    "paytoqs": "query",
+    "url": "http://127.0.0.1:5000/prever",
+    "tls": "",
+    "persist": false,
+    "proxy": "",
+    "insecureHTTPParser": false,
+    "authType": "",
+    "senderr": false,
+    "headers": [],
+    "x": 490,
+    "y": 460,
+    "wires": [["07f6fe22af9977d3"]]
+  },
+  {
+    "id": "f5e8777c3d5e78be",
+    "type": "debug",
+    "z": "4135ba03067b7839",
+    "name": "debug 1",
+    "active": true,
+    "tosidebar": true,
+    "console": false,
+    "tostatus": false,
+    "complete": "false",
+    "statusVal": "",
+    "statusType": "auto",
+    "x": 440,
+    "y": 340,
+    "wires": []
+  },
+  {
+    "id": "07f6fe22af9977d3",
+    "type": "debug",
+    "z": "4135ba03067b7839",
+    "name": "debug 2",
+    "active": true,
+    "tosidebar": true,
+    "console": false,
+    "tostatus": false,
+    "complete": "false",
+    "statusVal": "",
+    "statusType": "auto",
+    "x": 700,
+    "y": 340,
+    "wires": []
+  }
+]
