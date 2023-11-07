@@ -1,0 +1,201 @@
+NOME,MARCA,SITUAÇÃO,TIPO DE GUINCHO
+HR,HYUNDAI,Pane mecânica,Guincho de cabo
+1113,MERCEDES-BENZ,Acidente de trânsito,Guincho de plataforma
+1214,MERCEDES-BENZ,Pneu furado,Guincho de cabo
+1318,MERCEDES-BENZ,Problemas elétricos,Guincho elétrico
+1519,MERCEDES-BENZ,Veículo preso ou atolado,Guincho de cabo
+1614,MERCEDES-BENZ,Veículo sobrecarregado,Guincho de tambor
+1620,MERCEDES-BENZ,Transporte especializado,Guincho Hidráulico
+7000D,AGRALE,Reboque de veículos desativados,Guincho de Reboque Especializado
+709,MERCEDES-BENZ,Situações de emergência,Guincho de resgate
+710,MERCEDES-BENZ,Manutenção programada,Movimentação dentro da oficina
+912,MERCEDES-BENZ,Pane mecânica,Guincho de cabo
+2000,MERCEDES-BENZ,Acidente de trânsito,Guincho de plataforma
+TRAILER,TRAILER,Pneu furado,Guincho de cabo
+F-12000,FORD,Problemas elétricos,Guincho elétrico
+MASCARELLO,VOLKSWAGEN,Veículo preso ou atolado,Guincho de cabo
+GRANMICRO,VOLKSWAGEN,Veículo sobrecarregado,Guincho de tambor
+ONIBUS,ONIBUS,Transporte especializado,Guincho Hidráulico
+GUINDASTE,UTILITARIOS PESADOS,Reboque de veículos desativados,Guincho de Reboque Especializado
+EMPILHADEIRA,UTILITARIOS PESADOS,Situações de emergência,Guincho de resgate
+112,SCANIA,Manutenção programada,Transporte para ou de uma oficina
+10000,AGRALE,Pane mecânica,Guincho de cabo
+13000,AGRALE,Acidente de trânsito,Guincho de plataforma
+14000,AGRALE,Pneu furado,Guincho de cabo
+1600,AGRALE,Problemas elétricos,Guincho elétrico
+1800,AGRALE,Veículo preso ou atolado,Guincho de cabo
+4500,AGRALE,Veículo sobrecarregado,Guincho de tambor
+5000,AGRALE,Transporte especializado,Guincho Hidráulico
+6000,AGRALE,Reboque de veículos desativados,Guincho de Reboque Especializado
+7000,AGRALE,Situações de emergência,Guincho de resgate
+7500,AGRALE,Manutenção programada,Levantamento para manutenção em áreas elevadas
+8000,AGRALE,Pane mecânica,Guincho de cabo
+8500,AGRALE,Acidente de trânsito,Guincho de plataforma
+8700,AGRALE,Pneu furado,Guincho de cabo
+9200,AGRALE,Problemas elétricos,Guincho elétrico
+D-12000,CHEVROLET,Veículo preso ou atolado,Guincho de cabo
+D-13000,CHEVROLET,Veículo sobrecarregado,Guincho de tambor
+D-14000,CHEVROLET,Transporte especializado,Guincho Hidráulico
+19000,CHEVROLET,Reboque de veículos desativados,Guincho de Reboque Especializado
+21000,CHEVROLET,Situações de emergência,Guincho de resgate
+22000,CHEVROLET,Manutenção programada,Transporte de peças e equipamentos pesados
+D-6000,CHEVROLET,Pane mecânica,Guincho de cabo
+C-60,CHEVROLET,Acidente de trânsito,Guincho de plataforma
+D-40,CHEVROLET,Pneu furado,Guincho de cabo
+D-60,CHEVROLET,Problemas elétricos,Guincho elétrico
+D-70,CHEVROLET,Veículo preso ou atolado,Guincho de cabo
+JBC,EFFA,Veículo sobrecarregado,Guincho de tambor
+N601,EFFA,Transporte especializado,Guincho Hidráulico
+N900,EFFA,Reboque de veículos desativados,Guincho de Reboque Especializado
+190,FIAT,Situações de emergência,Guincho de resgate
+CARGO,FORD,Manutenção programada,Movimentação dentro da oficina
+F-11000,FORD,Pane mecânica,Guincho de cabo
+F-13000,FORD,Acidente de trânsito,Guincho de plataforma
+F-14000,FORD,Pneu furado,Guincho de cabo
+F-16000,FORD,Problemas elétricos,Guincho elétrico
+F-19000,FORD,Veículo preso ou atolado,Guincho de cabo
+F-2000,FORD,Veículo sobrecarregado,Guincho de tambor
+F-21000,FORD,Transporte especializado,Guincho Hidráulico
+F-22000,FORD,Reboque de veículos desativados,Guincho de Reboque Especializado
+F-350,FORD,Situações de emergência,Guincho de resgate
+F-4,FORD,Manutenção programada,Transporte para ou de uma oficina
+F-4000,FORD,Pane mecânica,Guincho de cabo
+F-7000,FORD,Acidente de trânsito,Guincho de plataforma
+F-MAXX,FORD,Pneu furado,Guincho de cabo
+12-170,CHEVROLET,Problemas elétricos,Guincho elétrico
+14-190,CHEVROLET,Veículo preso ou atolado,Guincho de cabo
+15-190,CHEVROLET,Veículo sobrecarregado,Guincho de tambor
+16-220,CHEVROLET,Transporte especializado,Guincho Hidráulico
+3500,CHEVROLET,Reboque de veículos desativados,Guincho de Reboque Especializado
+5-90,CHEVROLET,Situações de emergência,Guincho de resgate
+6-100,CHEVROLET,Manutenção programada,Levantamento para manutenção em áreas elevadas
+6-150,CHEVROLET,Pane mecânica,Guincho de cabo
+7-110,CHEVROLET,Acidente de trânsito,Guincho de plataforma
+HD78,HYUNDAI,Pneu furado,Guincho de cabo
+CITYCLASS,IVECO,Problemas elétricos,Guincho elétrico
+CURSOR,IVECO,Veículo preso ou atolado,Guincho de cabo
+DAILY,IVECO,Veículo sobrecarregado,Guincho de tambor
+EUROCARGO,IVECO,Transporte especializado,Guincho Hidráulico
+EUROTECH,IVECO,Reboque de veículos desativados,Guincho de Reboque Especializado
+EUROTRAKKER,IVECO,Situações de emergência,Guincho de resgate
+POWERSTAR,IVECO,Manutenção programada,Transporte de peças e equipamentos pesados
+STRALIS,IVECO,Pane mecânica,Guincho de cabo
+TECTOR,IVECO,Acidente de trânsito,Guincho de plataforma
+TRAKKER,IVECO,Pneu furado,Guincho de cabo
+VERTIS,IVECO,Problemas elétricos,Guincho elétrico
+TGX,MAN,Veículo preso ou atolado,Guincho de cabo
+1114,MERCEDES-BENZ,Veículo sobrecarregado,Guincho de tambor
+1215,MERCEDES-BENZ,Transporte especializado,Guincho Hidráulico
+1218,MERCEDES-BENZ,Reboque de veículos desativados,Guincho de Reboque Especializado
+1414,MERCEDES-BENZ,Situações de emergência,Guincho de resgate
+1420,MERCEDES-BENZ,Manutenção programada,Movimentação dentro da oficina
+1714,MERCEDES-BENZ,Pane mecânica,Guincho de cabo
+1720,MERCEDES-BENZ,Acidente de trânsito,Guincho de plataforma
+1721,MERCEDES-BENZ,Pneu furado,Guincho de cabo
+1723,MERCEDES-BENZ,Problemas elétricos,Guincho elétrico
+1938,MERCEDES-BENZ,Veículo preso ou atolado,Guincho de cabo
+1944-S,MERCEDES-BENZ,Veículo sobrecarregado,Guincho de tambor
+2038,MERCEDES-BENZ,Transporte especializado,Guincho Hidráulico
+2418,MERCEDES-BENZ,Reboque de veículos desativados,Guincho de Reboque Especializado
+2423,MERCEDES-BENZ,Situações de emergência,Guincho de resgate
+2638,MERCEDES-BENZ,Manutenção programada,Transporte para ou de uma oficina
+2726,MERCEDES-BENZ,Pane mecânica,Guincho de cabo
+608,MERCEDES-BENZ,Acidente de trânsito,Guincho de plataforma
+708,MERCEDES-BENZ,Pneu furado,Guincho de cabo
+712,MERCEDES-BENZ,Problemas elétricos,Guincho elétrico
+914,MERCEDES-BENZ,Veículo preso ou atolado,Guincho de cabo
+ACCELO,MERCEDES-BENZ,Veículo sobrecarregado,Guincho de tambor
+ACTROS,MERCEDES-BENZ,Transporte especializado,Guincho Hidráulico
+ATEGO,MERCEDES-BENZ,Reboque de veículos desativados,Guincho de Reboque Especializado
+ATILIS,MERCEDES-BENZ,Situações de emergência,Guincho de resgate
+ATRON,MERCEDES-BENZ,Manutenção programada,Levantamento para manutenção em áreas elevadas
+AXOR,MERCEDES-BENZ,Pane mecânica,Guincho de cabo
+L-1117,MERCEDES-BENZ,Acidente de trânsito,Guincho de plataforma
+L-1118,MERCEDES-BENZ,Pneu furado,Guincho de cabo
+L-1313,MERCEDES-BENZ,Problemas elétricos,Guincho elétrico
+L-1314,MERCEDES-BENZ,Veículo preso ou atolado,Guincho de cabo
+L-1317,MERCEDES-BENZ,Veículo sobrecarregado,Guincho de tambor
+L-1319,MERCEDES-BENZ,Transporte especializado,Guincho Hidráulico
+L-1514,MERCEDES-BENZ,Reboque de veículos desativados,Guincho de Reboque Especializado
+L-1517,MERCEDES-BENZ,Situações de emergência,Guincho de resgate
+1520,MERCEDES-BENZ,Manutenção programada,Transporte de peças e equipamentos pesados
+L-2014,MERCEDES-BENZ,Pane mecânica,Guincho de cabo
+L-2017,MERCEDES-BENZ,Acidente de trânsito,Guincho de plataforma
+L-2213,MERCEDES-BENZ,Pneu furado,Guincho de cabo
+L-2214,MERCEDES-BENZ,Problemas elétricos,Guincho elétrico
+L-2215,MERCEDES-BENZ,Veículo preso ou atolado,Guincho de cabo
+L-2216,MERCEDES-BENZ,Veículo sobrecarregado,Guincho de tambor
+L-2217,MERCEDES-BENZ,Transporte especializado,Guincho Hidráulico
+L-2220,MERCEDES-BENZ,Reboque de veículos desativados,Guincho de Reboque Especializado
+L-2225,MERCEDES-BENZ,Situações de emergência,Guincho de resgate
+L-2314,MERCEDES-BENZ,Manutenção programada,Movimentação dentro da oficina
+L-2318,MERCEDES-BENZ,Pane mecânica,Guincho de cabo
+L-2325,MERCEDES-BENZ,Acidente de trânsito,Guincho de plataforma
+2635,MERCEDES-BENZ,Pneu furado,Guincho de cabo
+LS-1632,MERCEDES-BENZ,Problemas elétricos,Guincho elétrico
+LS-1941,MERCEDES-BENZ,Veículo preso ou atolado,Guincho de cabo
+DURASTAR,NAVISTAR,Veículo sobrecarregado,Guincho de tambor
+INTERNATIONAL,NAVISTAR,Transporte especializado,Guincho Hidráulico
+7900,PUMA,Reboque de veículos desativados,Guincho de Reboque Especializado
+9000,PUMA,Situações de emergência,Guincho de resgate
+914,PUMA,Manutenção programada,Transporte para ou de uma oficina
+R-112,SAAB,Pane mecânica,Guincho de cabo
+R-142,SAAB,Acidente de trânsito,Guincho de plataforma
+T-112,SAAB,Pneu furado,Guincho de cabo
+T-142,SAAB,Problemas elétricos,Guincho elétrico
+380,SCANIA,Veículo preso ou atolado,Guincho de cabo
+400,SCANIA,Veículo sobrecarregado,Guincho de tambor
+420,SCANIA,Transporte especializado,Guincho Hidráulico
+440,SCANIA,Reboque de veículos desativados,Guincho de Reboque Especializado
+470,SCANIA,Situações de emergência,Guincho de resgate
+480,SCANIA,Manutenção programada,Levantamento para manutenção em áreas elevadas
+111,SCANIA,Pane mecânica,Guincho de cabo
+141,SCANIA,Acidente de trânsito,Guincho de plataforma
+114,SCANIA,Pneu furado,Guincho de cabo
+230,SCANIA,Problemas elétricos,Guincho elétrico
+P-250,SCANIA,Veículo preso ou atolado,Guincho de cabo
+P-270,SCANIA,Veículo sobrecarregado,Guincho de tambor
+P-310,SCANIA,Transporte especializado,Guincho Hidráulico
+P-340,SCANIA,Reboque de veículos desativados,Guincho de Reboque Especializado
+93,SCANIA,Situações de emergência,Guincho de resgate
+94,SCANIA,Manutenção programada,Transporte de peças e equipamentos pesados
+143,SCANIA,Pane mecânica,Guincho de cabo
+164,SCANIA,Acidente de trânsito,Guincho de plataforma
+R-500,SCANIA,Pneu furado,Guincho de cabo
+R-560,SCANIA,Problemas elétricos,Guincho elétrico
+R-580,SCANIA,Veículo preso ou atolado,Guincho de cabo
+R-620,SCANIA,Veículo sobrecarregado,Guincho de tambor
+HOWO,SINOTRUK,Transporte especializado,Guincho Hidráulico
+11-130,VOLKSWAGEN,Reboque de veículos desativados,Guincho de Reboque Especializado
+11-140,VOLKSWAGEN,Situações de emergência,Guincho de resgate
+12-170,VOLKSWAGEN,Manutenção programada,Movimentação dentro da oficina
+12-180,VOLKSWAGEN,Pane mecânica,Guincho de cabo
+13-130,VOLKSWAGEN,Acidente de trânsito,Guincho de plataforma
+13-150,VOLKSWAGEN,Pneu furado,Guincho de cabo
+13-170,VOLKSWAGEN,Problemas elétricos,Guincho elétrico
+14-140,VOLKSWAGEN,Veículo preso ou atolado,Guincho de cabo
+14-150,VOLKSWAGEN,Veículo sobrecarregado,Guincho de tambor
+14-170,VOLKSWAGEN,Transporte especializado,Guincho Hidráulico
+14-180,VOLKSWAGEN,Reboque de veículos desativados,Guincho de Reboque Especializado
+14-200,VOLKSWAGEN,Situações de emergência,Guincho de resgate
+14-210,VOLKSWAGEN,Manutenção programada,Transporte para ou de uma oficina
+14-220,VOLKSWAGEN,Pane mecânica,Guincho de cabo
+15-170,VOLKSWAGEN,Acidente de trânsito,Guincho de plataforma
+16-170,VOLKSWAGEN,Pneu furado,Guincho de cabo
+16-200,VOLKSWAGEN,Problemas elétricos,Guincho elétrico
+16-210,VOLKSWAGEN,Veículo preso ou atolado,Guincho de cabo
+16-220,VOLKSWAGEN,Veículo sobrecarregado,Guincho de tambor
+16-300,VOLKSWAGEN,Transporte especializado,Guincho Hidráulico
+17-180,VOLKSWAGEN,Reboque de veículos desativados,Guincho de Reboque Especializado
+17-210,VOLKSWAGEN,Situações de emergência,Guincho de resgate
+17-220,VOLKSWAGEN,Manutenção programada,Levantamento para manutenção em áreas elevadas
+17-280,VOLKSWAGEN,Pane mecânica,Guincho de cabo
+17-300,VOLKSWAGEN,Acidente de trânsito,Guincho de plataforma
+17-310,VOLKSWAGEN,Pneu furado,Guincho de cabo
+17-330,VOLKSWAGEN,Problemas elétricos,Guincho elétrico
+18-310,VOLKSWAGEN,Veículo preso ou atolado,Guincho de cabo
+19-330,VOLKSWAGEN,Veículo sobrecarregado,Guincho de tambor
+19-390,VOLKSWAGEN,Transporte especializado,Guincho Hidráulico
+22-140,VOLKSWAGEN,Reboque de veículos desativados,Guincho de Reboque Especializado
+22-160,VOLKSWAGEN,Situações de emergência,Guincho de resgate
+22-210,VOLKSWAGEN,Manutenção programada,Transporte de peças e equipamentos pesados
